@@ -1,7 +1,5 @@
 Usage:
 
-`<?php
-
-$db = new DBWrapper( $mysql_host, $mysql_user, $mysql_password, $mysql_database );
-
-?>`
+  <?php
+    $db = new DBWrapper( $mysql_host, $mysql_user, $mysql_password, $mysql_database );
+  ?>
